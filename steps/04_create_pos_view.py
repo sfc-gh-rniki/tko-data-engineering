@@ -8,6 +8,7 @@
 # SNOWFLAKE ADVANTAGE: Snowpark DataFrame API
 # SNOWFLAKE ADVANTAGE: Streams for incremental processing (CDC)
 # SNOWFLAKE ADVANTAGE: Streams on views
+#1
 
 
 from snowflake.snowpark import Session
